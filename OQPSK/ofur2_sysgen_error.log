@@ -1,0 +1,22 @@
+--------------------------------- Version Log ----------------------------------
+Version                                 Path
+System Generator 2019.2                 C:/Xilinx/Vivado/2019.2
+Matlab 9.5.0.944444 (R2018b)            C:\Program Files\MATLAB\R2018b
+Vivado 2019.2                           C:/Xilinx/Vivado/2019.2
+--------------------------------------------------------------------------------
+Summary of Errors:
+Error 0001: Error("fft_max_orig.m"): line 33:15 The array object r ha...
+     Block: 'ofur2/MCode2 2'
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'ofur2/MCode2 2'
+
+Details:
+Error("fft_max_orig.m"): line 33:15 The array object r has query
+method invokation following update method invokation.
+Error occurred during "Rate and Type Error Checking".
+
+--------------------------------------------------------------------------------

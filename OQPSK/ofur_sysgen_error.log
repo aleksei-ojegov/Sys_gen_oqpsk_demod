@@ -1,0 +1,28 @@
+--------------------------------- Version Log ----------------------------------
+Version                                 Path
+System Generator 2019.2                 C:/Xilinx/Vivado/2019.2
+Matlab 9.5.0.944444 (R2018b)            C:\Program Files\MATLAB\R2018b
+Vivado 2019.2                           C:/Xilinx/Vivado/2019.2
+--------------------------------------------------------------------------------
+Summary of Errors:
+Error 0001: Error("symb_sync_500_2.m"): line 50:11 the '~=' operator ...
+     Block: 'ofur/MCode6 1'
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'ofur/MCode6 1'
+
+Details:
+Error("symb_sync_500_2.m"): line 50:11 the '~=' operator cannot
+have one Bool type and one UFix type operands
+Error("symb_sync_500_2.m"): line 19:1 cannot assign s_bit0_sync
+with type UFix, because it may be assigned with type Bool in
+other branches of the same level
+Error("symb_sync_500_2.m"): line 7:1 cannot assign s_bit0_old
+with type UFix, because it may be assigned with type Bool in
+other branches of the same level
+Error occurred during "Rate and Type Error Checking".
+
+--------------------------------------------------------------------------------

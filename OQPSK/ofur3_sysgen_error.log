@@ -1,0 +1,30 @@
+--------------------------------- Version Log ----------------------------------
+Version                                 Path
+System Generator 2019.2                 C:/Xilinx/Vivado/2019.2
+Matlab 9.5.0.944444 (R2018b)            C:\Program Files\MATLAB\R2018b
+Vivado 2019.2                           C:/Xilinx/Vivado/2019.2
+--------------------------------------------------------------------------------
+Summary of Errors:
+Error 0001: Undriven input port
+     Block: 'ofur3/Mult2'
+Error 0002: Undriven input port
+     Block: 'ofur3/Mult3'
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'ofur3/Mult2'
+
+Details:
+The input ports on this block must be driven by other Xilinx blocks
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'ofur3/Mult3'
+
+Details:
+The input ports on this block must be driven by other Xilinx blocks
+--------------------------------------------------------------------------------
